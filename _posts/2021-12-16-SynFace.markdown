@@ -1,12 +1,12 @@
 ---
 layout: post
-title: <font color="#f55e51">SynFace:Face Recognition with Synthetic Data</font>
+title: <font size="6" color="#f55e51">SynFace:Face Recognition with Synthetic Data</font>
 date:   2021-12-16 10:33:30 +00:00
 image: /images/synface.png
 categories: research
 author: "Haibo Qiu"
 authors: "<strong>Haibo Qiu</strong>, Baosheng Yu, Dihong Gong, Zhifeng Li, Wei Liu and Dacheng Tao"
-venue: "IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>)"
+venue: "<i>International Conference on Computer Vision (<strong>ICCV</strong>)</i>"
 arxiv: https://arxiv.org/abs/2108.07960
 code: https://github.com/haibo-qiu/SynFace
 cite: /bib/synface_iccv2021.txt

@@ -7,7 +7,7 @@ categories: research
 author: "Haibo Qiu"
 authors: "<strong>Haibo Qiu</strong>, Baosheng Yu, Dihong Gong, Zhifeng Li, Wei Liu and Dacheng Tao"
 venue: "<i>International Conference on Computer Vision (<strong>ICCV</strong>)</i>"
-arxiv: https://arxiv.org/abs/2108.07960
+pdf: https://arxiv.org/abs/2108.07960
 code: https://github.com/haibo-qiu/SynFace
 cite: /bib/synface_iccv2021.txt
 poster: /pdfs/Poster_ICCV21_SynFace.pdf

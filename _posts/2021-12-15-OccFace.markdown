@@ -7,7 +7,7 @@ categories: research
 author: "Haibo Qiu"
 authors: "<strong>Haibo Qiu</strong>, Dihong Gong, Zhifeng Li, Wei Liu and Dacheng Tao"
 venue: "<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>)</i>"
-arxiv: https://arxiv.org/abs/2108.09468
+pdf: https://arxiv.org/abs/2108.09468
 code: https://github.com/haibo-qiu/FROM
 cite: /bib/occface_tpami2021.txt
 ---

@@ -10,5 +10,5 @@ venue: "<i>International Conference on Computer Vision (<strong>ICCV</strong>)</
 pdf: https://arxiv.org/abs/1909.01203
 code: https://github.com/microsoft/multiview-human-pose-estimation-pytorch
 cite: /bib/crossview_iccv2019.txt
-alias: crossview
+alias: crossview_iccv2019
 ---

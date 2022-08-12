@@ -10,4 +10,5 @@ venue: "<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<stro
 pdf: https://arxiv.org/abs/2108.09468
 code: https://github.com/haibo-qiu/FROM
 cite: /bib/occface_tpami2021.txt
+alias: occface
 ---

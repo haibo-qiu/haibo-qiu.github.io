@@ -95,6 +95,17 @@ h1 {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+.research-item-bib-box {
+}
+
+.bibtex-block {
+  background: #e1e1e1a8;
+  padding: 1.5%;
+  border-radius: 8px;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  white-space: pre-wrap;
+}
+
 span.highlight {
   background-color: #ffffd0;
 }

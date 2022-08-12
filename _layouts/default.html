@@ -13,6 +13,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <link rel="icon" href="./imgs/web_icon.jpeg">
+  <link rel="preload" href="_sass/main.js" as="script">
+  <script type="text/javascript" src="_sass/main.js"></script>
 
 </head>
 
@@ -87,8 +89,12 @@
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
               {% if post.cite %}
-              <a href="{{post.cite}}">cite</a> /
+              <div style='cursor:pointer;display:inline-block;' class='bibClick' id="bibclick-"+"{{post.alisa}}"><a>cite</a></div> /
               {% endif %}
+              <div class="research-item-bib-box" id="bib-box-"+"{{post.alisa}}">
+                    <div id="bib-box-content-"+"{{post.alisa}}" class='bibtex-block' style='left: 2.5%; width: 95%; display: none'>
+                    </div>
+              </div>
               <p></p>
               {{ post.excerpt }}
             </td>

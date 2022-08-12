@@ -9,5 +9,5 @@ authors: "Chunyu Wang, <strong>Haibo Qiu</strong>, Alan L. Yuille and Wenjun Zen
 venue: "<i>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</i>"
 pdf: /pdfs/aaai19_basis.pdf
 cite: /bib/basis_aaai2019.txt
-alias: basis
+alias: basis_aaai2019
 ---

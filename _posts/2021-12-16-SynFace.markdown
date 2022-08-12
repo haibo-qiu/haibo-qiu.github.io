@@ -12,5 +12,5 @@ code: https://github.com/haibo-qiu/SynFace
 cite: /bib/synface_iccv2021.txt
 poster: /pdfs/Poster_ICCV21_SynFace.pdf
 video: https://www.youtube.com/watch?v=a1bk0OvxmNI&t=1s
-alias: synface
+alias: synface_iccv2021
 ---

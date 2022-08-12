@@ -10,5 +10,6 @@ venue: "<i>ArXiv.2207.02605 (under review)</i>"
 pdf: https://arxiv.org/abs/2207.02605
 code: https://github.com/haibo-qiu/GFNet
 cite: /bib/gfnet.txt
+alias: gfnet
 ---
 

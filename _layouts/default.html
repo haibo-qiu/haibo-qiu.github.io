@@ -77,7 +77,8 @@
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
               {% if post.pdf %}
-              <a href="{{post.pdf}}">pdf</a> /
+              <a href="{{post.pdf}}"><img src="https://img.shields.io/badge/pdf-red.svg?style=for-the-badge&amp;logo=Adobe%20Acrobat%20Reader&amp;logoColor=white" alt="GitHub"></a>
+              <a href="{{post.pdf}}"><img src="https://img.shields.io/badge/pdf-black.svg?style=for-the-badge&amp;logo=Adobe%20Acrobat%20Reader&amp;logoColor=white" alt="GitHub"></a>
               {% endif %}
               {% if post.code %}
               <a href="{{post.code}}">code</a> /

@@ -92,14 +92,10 @@
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
               {% if post.cite %}
-              <div style='cursor:pointer;display:inline-block;' class='bibClick' id="bibclick-{{post.alias}}"><a>cite</a></div> /
+              <a href="{{post.cite}}">cite</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
-              <div class="research-item-bib-box" id="bib-box-{{post.alias}}">
-                    <div id="bib-box-content-{{post.alias}}" class='bibtex-block' style='left: 2.5%; width: 95%; display: none'>
-                    </div>
-              </div>
             </td>
           </tr>
           {% endif %}

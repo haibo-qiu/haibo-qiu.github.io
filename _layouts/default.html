@@ -9,18 +9,15 @@
   <meta name="author" content="{{ site.name }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" onload="this.rel='stylesheet'"/>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <link rel="icon" href="./imgs/web_icon.jpeg">
-  <link rel='preload' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css' as="style" onload="this.rel='stylesheet'">
   <link rel='preload' href='https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css' as="style" onload="this.rel='stylesheet'">
-  <link rel='preload' href='_sass/main.css' as="style" onload="this.rel='stylesheet'">
-  <link rel="preload" href="_sass/main.js" as="script">
-  <script type="text/javascript" src="_sass/main.js"></script>
+  <link rel="preload" href="func.js" as="script">
+  <script type="text/javascript" src="func.js"></script>
 
 </head>
-
 
 
 <body>
@@ -65,10 +62,10 @@
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+            <td style="padding:2.5%;width:25%;vertical-align:top;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
+            <td style="padding:2.5%;width:75%;vertical-align:top">
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
@@ -92,9 +89,11 @@
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
               {% if post.cite %}
-              <a href="{{post.cite}}">cite</a> /
+              <div style='cursor:pointer;display:inline-block;' onclick="bibClickFunc()" class='bibClick' id="bibclick-{{post.alias}}"><a>cite</a></div>
+              <!-- <a href="{{post.cite}}">cite</a> / -->
               {% endif %}
               <p></p>
+              <div id="bib-box-content-{{post.alias}}" class='bibtex-block' style='left: 2.5%; width: 95%; display: none'></div>
               {{ post.excerpt }}
             </td>
           </tr>
@@ -202,7 +201,7 @@
       </td>
     </tr>
   </table>
-</body>
 
+</body>
 </html>
 

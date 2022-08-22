@@ -1,0 +1,12 @@
+---
+layout: post
+company: <font size="4" color="#f55e51">JD Explore Academy</font>
+start:   2021-04-15 10:33:30 +00:00
+end:   2022-04-15 10:33:30 +00:00
+image: https://www.freelogovectors.net/svg12/jd-com-logo_freelogovectors.net.svg 
+categories: experience 
+author: "Haibo Qiu"
+position: Research intern
+supervisor: Advised by <a href="https://scholar.google.com/citations?user=fjzIdMQAAAAJ&hl=en">Dr. Baosheng Yu </a>
+---
+

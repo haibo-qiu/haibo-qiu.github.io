@@ -3,7 +3,7 @@ layout: post
 company: <font size="4" color="#f55e51">Tencent AI Lab</font>
 start:   2019-05-15 10:33:30 +00:00
 end:   2021-03-15 10:33:30 +00:00
-image: https://upload.wikimedia.org/wikipedia/commons/2/22/Tencent_Logo.svg 
+image: /imgs/Tencent_Logo.svg 
 categories: experience 
 author: "Haibo Qiu"
 position: Research intern

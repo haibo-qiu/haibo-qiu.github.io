@@ -86,7 +86,7 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}, {{ post.date | date: "%Y" }}</em>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
               {% if post.pdf %}
               <a href="{{post.pdf}}">[pdf]</a> 
@@ -155,7 +155,7 @@
               <br>
               {{post.supervisor}}
               <br>
-              <em>{{post.position}}, {{ post.start | date: "%Y.%m" }} - {{ post.end | date: "%Y.%m" }}</em>
+              <em>{{post.position}}</em>, {{ post.start | date: "%Y.%m" }} - {{ post.end | date: "%Y.%m" }}
               <br>
               {% if post.website %}
               <a href="{{post.website}}">website</a> /

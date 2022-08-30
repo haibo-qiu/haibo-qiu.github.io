@@ -7,6 +7,6 @@ image: /imgs/Tencent_Logo.svg
 categories: experience 
 author: "Haibo Qiu"
 position: Research intern
-supervisor: Advised by <a href="https://scholar.google.com/citations?user=FP4FEvwAAAAJ&hl=en">Dr. Dihong Gong</a>, <a href="https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN">Dr. Zhifeng Li</a> and <a href="https://scholar.google.com/citations?user=AjxoEpIAAAAJ&hl=en">Dr. Wei Liu </a>
+supervisor: Advised by <a href="https://scholar.google.com/citations?user=FP4FEvwAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Dr. Dihong Gong</a>, <a href="https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN" target="_blank" rel="noopener noreferer">Dr. Zhifeng Li</a> and <a href="https://scholar.google.com/citations?user=AjxoEpIAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Dr. Wei Liu </a>
 ---
 

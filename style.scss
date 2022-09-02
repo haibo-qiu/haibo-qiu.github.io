@@ -12,6 +12,37 @@
 /**************/
 /* BASE RULES */
 /**************/
+.button {
+  border: 1.5px solid #1772d0;
+  border-radius: 5px;
+  color: #1772d0;
+  background-color: white;
+  padding: 3px 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 1px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: white;
+  color: #f09228;
+  border: 1.5px solid #f09228;
+}
+
+.a1 {
+  color: #000000;
+  text-decoration: none;
+}
+
+.a1:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
 a {
   color: #1772d0;
   text-decoration: none;

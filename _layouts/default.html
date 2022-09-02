@@ -39,10 +39,10 @@
               <!--   <a href="https://www.linkedin.com/in/haibo-qiu-0996b7145/"><img src='./imgs/linkedin.svg' height='28px'></a> -->
               <!-- </p> -->
               <p style="text-align:center">
-                <a href="mailto:haibo-qiu@outlook.com" style="color:#000000"><i class='fa fa-envelope fa-lg' title='Email'></i></a> &nbsp;
-                <a href="https://github.com/haibo-qiu" style="color:#000000" target="_blank" rel="noopener noreferer"><i class='fab fa-github fa-lg' title='Github'></i></a> &nbsp;
-                <a href="https://scholar.google.com/citations?user=O5gH5vkAAAAJ&hl=en"style="color:#000000" target="_blank" rel="noopener noreferer"><i class='ai ai-google-scholar-square ai-lg' title='Google scholar'></i></a> &nbsp;
-                <a href="https://www.linkedin.com/in/haibo-qiu-0996b7145/" style="color:#000000" target="_blank" rel="noopener noreferer"><i class='fab fa-linkedin fa-lg' title='LinkedIn'></i></a>
+                <a href="mailto:haibo-qiu@outlook.com" class="a a1"><i class='fa fa-envelope fa-lg' title='Email'></i></a> &nbsp;
+                <a href="https://github.com/haibo-qiu" class="a a1" target="_blank" rel="noopener noreferer"><i class='fab fa-github fa-lg' title='Github'></i></a> &nbsp;
+                <a href="https://scholar.google.com/citations?user=O5gH5vkAAAAJ&hl=en" class="a a1" target="_blank" rel="noopener noreferer"><i class='ai ai-google-scholar-square ai-lg' title='Google scholar'></i></a> &nbsp;
+                <a href="https://www.linkedin.com/in/haibo-qiu-0996b7145/" class="a a1" target="_blank" rel="noopener noreferer"><i class='fab fa-linkedin fa-lg' title='LinkedIn'></i></a>
               </p>
               <p>I am a third year PhD candidate at the School of Computer Science in the University of Sydney (<a href="https://www.sydney.edu.au/" target="_blank" rel="noopener noreferer">USYD</a>), co-supervised by <a href="https://scholar.google.com/citations?user=fjzIdMQAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Dr. Baosheng Yu</a> and <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Prof. Dacheng Tao</a>. Prior to USYD, I got my Bachelor's degree in the Department of Electronic Engineering and Information Science from the University of Science and Technology of China (<a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferer">USTC</a>) in 2018.
               </p>
@@ -89,22 +89,22 @@
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
               {% if post.pdf %}
-              <a href="{{post.pdf}}" target="_blank" rel="noopener noreferer">[pdf]</a> 
+              <a href="{{post.pdf}}" target="_blank" rel="noopener noreferer"><button class="button">pdf</button></a> 
               {% endif %}
               {% if post.code %}
-              <a href="{{post.code}}" target="_blank" rel="noopener noreferer">[code]</a> 
+              <a href="{{post.code}}" target="_blank" rel="noopener noreferer"><button class="button">code</button></a> 
               {% endif %}
               {% if post.poster %}
-              <a href="{{post.poster}}" target="_blank" rel="noopener noreferer">[poster]</a> 
+              <a href="{{post.poster}}" target="_blank" rel="noopener noreferer"><button class="button">poster</button></a> 
               {% endif %}
               {% if post.video %}
-              <a href="{{post.video}}" target="_blank" rel="noopener noreferer">[video]</a> 
+              <a href="{{post.video}}" target="_blank" rel="noopener noreferer"><button class="button">video</button></a> 
               {% endif %}
               {% if post.slides %}
-              <a href="{{post.slides}}" target="_blank" rel="noopener noreferer">[slides]</a> 
+              <a href="{{post.slides}}" target="_blank" rel="noopener noreferer"><button class="button">slides</button></a> 
               {% endif %}
               {% if post.cite %}
-              <div style='cursor:pointer;display:inline-block;' onclick="bibClickFunc()" class='bibClick' id="bibclick-{{post.alias}}"><a>[cite]</a></div>
+              <div style='cursor:pointer;display:inline-block;' onclick="bibClickFunc()" class='bibClick' id="bibclick-{{post.alias}}"><a><button class="button">cite</button></a></div>
               <!-- <a href="{{post.cite}}">cite</a> / -->
               {% endif %}
               <p></p>

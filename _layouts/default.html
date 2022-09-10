@@ -87,25 +87,29 @@
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
-	      <p style="margin-bottom:-12px;"></p>
+	      <p style="margin-bottom:-13px;"></p>
               {% if post.pdf %}
 
-              <a href="{{post.pdf}}" target="_blank" rel="noopener noreferer" ><img src="https://img.shields.io/badge/PDF-white.svg?&amp;logo=Adobe%20Acrobat%20Reader&amp;logoColor=black" alt="pdf"></a> 
+              <a href="{{post.pdf}}" target="_blank" rel="noopener noreferer" ><img src="https://img.shields.io/badge/PDF-white.svg?&amp;logo=Adobe%20Acrobat%20Reader&amp;logoColor=EC1C24" alt="pdf"></a> 
+              {% endif %}
+              {% if post.project %}
+              <a href="{{post.project}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/PROJECT-white.svg?&amp;logo=Google%20My%20Business&amp;logoColor=4285F4" alt="project"></a> 
+
               {% endif %}
               {% if post.code %}
-              <a href="{{post.code}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/CODE-white.svg?&amp;logo=github&amp;logoColor=black" alt="code"></a> 
+              <a href="{{post.code}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/CODE-white.svg?&amp;logo=github&amp;logoColor=181717" alt="code"></a> 
               {% endif %}
               {% if post.poster %}
-              <a href="{{post.poster}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/POSTER-white.svg?&amp;logo=Microsoft%20Academic&amp;logoColor=black" alt="poster"></a> 
+              <a href="{{post.poster}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/POSTER-white.svg?&amp;logo=React%20Hook%20Form&amp;logoColor=EC5990" alt="poster"></a> 
               {% endif %}
               {% if post.video %}
-              <a href="{{post.video}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/VIDEO-white.svg?&amp;logo=AirPlay%20Video&amp;logoColor=black" alt="video"></a> 
+              <a href="{{post.video}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/VIDEO-white.svg?&amp;logo=YouTube&amp;logoColor=FF0000" alt="video"></a> 
               {% endif %}
               {% if post.slides %}
-              <a href="{{post.slides}}" target="_blank" rel="noopener noreferer"><button class="button">slides</button></a> 
+              <a href="{{post.slides}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/SLIDES-white.svg?&amp;logo=Microsoft%20PowerPoint&amp;logoColor=B7472A" alt="slides"></a> 
               {% endif %}
               {% if post.cite %}
-              <div style='cursor:pointer;display:inline-block;' onclick="bibClickFunc()" class='bibClick' id="bibclick-{{post.alias}}"><a><img src="https://img.shields.io/badge/CITE-white.svg?e&amp;logo=Google%20Scholar&amp;logoColor=black" alt="cite"></a></div>
+              <div style='cursor:pointer;display:inline-block;' onclick="bibClickFunc()" class='bibClick' id="bibclick-{{post.alias}}"><a><img src="https://img.shields.io/badge/CITE-white.svg?e&amp;logo=Google%20Scholar&amp;logoColor=4285F4" alt="cite"></a></div>
               <!-- <a href="{{post.cite}}">cite</a> / -->
               {% endif %}
               <p></p>

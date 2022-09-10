@@ -87,24 +87,25 @@
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
-              <br>
+	      <p style="margin-bottom:-12px;"></p>
               {% if post.pdf %}
-              <a href="{{post.pdf}}" target="_blank" rel="noopener noreferer"><button class="button">pdf</button></a> 
+
+              <a href="{{post.pdf}}" target="_blank" rel="noopener noreferer" ><img src="https://img.shields.io/badge/PDF-white.svg?&amp;logo=Adobe%20Acrobat%20Reader&amp;logoColor=black" alt="pdf"></a> 
               {% endif %}
               {% if post.code %}
-              <a href="{{post.code}}" target="_blank" rel="noopener noreferer"><button class="button">code</button></a> 
+              <a href="{{post.code}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/CODE-white.svg?&amp;logo=github&amp;logoColor=black" alt="code"></a> 
               {% endif %}
               {% if post.poster %}
-              <a href="{{post.poster}}" target="_blank" rel="noopener noreferer"><button class="button">poster</button></a> 
+              <a href="{{post.poster}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/POSTER-white.svg?&amp;logo=Microsoft%20Academic&amp;logoColor=black" alt="poster"></a> 
               {% endif %}
               {% if post.video %}
-              <a href="{{post.video}}" target="_blank" rel="noopener noreferer"><button class="button">video</button></a> 
+              <a href="{{post.video}}" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/VIDEO-white.svg?&amp;logo=AirPlay%20Video&amp;logoColor=black" alt="video"></a> 
               {% endif %}
               {% if post.slides %}
               <a href="{{post.slides}}" target="_blank" rel="noopener noreferer"><button class="button">slides</button></a> 
               {% endif %}
               {% if post.cite %}
-              <div style='cursor:pointer;display:inline-block;' onclick="bibClickFunc()" class='bibClick' id="bibclick-{{post.alias}}"><a><button class="button">cite</button></a></div>
+              <div style='cursor:pointer;display:inline-block;' onclick="bibClickFunc()" class='bibClick' id="bibclick-{{post.alias}}"><a><img src="https://img.shields.io/badge/CITE-white.svg?e&amp;logo=Google%20Scholar&amp;logoColor=black" alt="cite"></a></div>
               <!-- <a href="{{post.cite}}">cite</a> / -->
               {% endif %}
               <p></p>

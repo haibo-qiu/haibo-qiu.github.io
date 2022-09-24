@@ -6,9 +6,10 @@ image: /imgs/gfnet.png
 categories: research
 author: "Haibo Qiu"
 authors: "<strong>Haibo Qiu</strong>, Baosheng Yu and Dacheng Tao"
-venue: "<i>ArXiv.2207.02605 (under review)</i>"
+venue: "<i>Transactions on Machine Learning Research (<strong>TMLR</strong>)</i>"
 pdf: https://arxiv.org/abs/2207.02605
 code: https://github.com/haibo-qiu/GFNet
+project: https://haibo-qiu.github.io/projects/gfnet
 cite: /bib/gfnet.txt
 alias: gfnet
 ---

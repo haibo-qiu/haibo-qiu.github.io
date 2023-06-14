@@ -1,0 +1,15 @@
+---
+layout: post
+title: <font size="4" color="#f55e51">Collect-and-Distribute Transformer for 3D Point Cloud Analysis</font>
+date:   2023-06-13 8:33:30 +00:00
+image: /imgs/cdformer.png
+categories: research
+author: "Haibo Qiu"
+authors: "<strong>Haibo Qiu</strong>, Baosheng Yu and Dacheng Tao"
+venue: "<i>arXiv preprint arXiv:2306.01257</i>"
+pdf: https://arxiv.org/abs/2306.01257
+code: https://github.com/haibo-qiu/CDFormer
+cite: /bib/cdformer_arxiv2023.txt
+alias: cdformer_arxiv2023
+---
+

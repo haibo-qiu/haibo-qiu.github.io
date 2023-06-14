@@ -1,0 +1,6 @@
+@article{qiu2023collect,
+  title={Collect-and-Distribute Transformer for 3D Point Cloud Analysis},
+  author={Qiu, Haibo and Yu, Baosheng and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2306.01257},
+  year={2023}
+}

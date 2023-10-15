@@ -1,0 +1,6 @@
+@article{qiu2023pointhr,
+  title={PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation},
+  author={Qiu, Haibo and Yu, Baosheng and Chen, Yixin and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2310.07743},
+  year={2023}
+}

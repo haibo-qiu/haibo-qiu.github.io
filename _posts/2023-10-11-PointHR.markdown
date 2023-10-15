@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <font size="4" color="#f55e51">PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation</font>
-date:   2023-010-11 8:33:30 +00:00
+title: <font size="4" color="#f55e51">PointHR:Exploring High-Resolution Architectures for 3D Point Cloud Segmentation</font>
+date:   2023-10-11 8:33:30 +00:00
 image: /imgs/pointhr.png
 categories: research
 author: "Haibo Qiu"

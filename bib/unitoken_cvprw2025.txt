@@ -1,0 +1,6 @@
+@article{jiao2025unitoken,
+  title={UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding},
+  author={Jiao, Yang and Qiu, Haibo and Jie, Zequn and Chen, Shaoxiang and Chen, Jingjing and Ma, Lin and Jiang, Yu-Gang},
+  journal={arXiv preprint arXiv:2504.04423},
+  year={2025}
+}

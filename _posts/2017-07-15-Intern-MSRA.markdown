@@ -7,6 +7,6 @@ image: /imgs/Microsoft_Logo.svg
 categories: experience 
 author: "Haibo Qiu"
 position: Research intern
-supervisor: Advised by <a href="https://www.chunyuwang.org/" target="_blank" rel="noopener noreferer">Dr. Chunyu Wang</a> and <a href="https://scholar.google.com/citations?user=_cUfvYQAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Prof. Wenjun Zeng</a>
+supervisor: Advised by <a href="https://scholar.google.com/citations?user=VXQV5xwAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Dr. Chunyu Wang</a> and <a href="https://scholar.google.com/citations?user=_cUfvYQAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Prof. Wenjun Zeng</a>
 ---
 

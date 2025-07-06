@@ -6,7 +6,7 @@ image: /imgs/unitoken.png
 categories: research
 author: "Haibo Qiu"
 authors: "yang jiao<sup>*</sup>, <strong>Haibo Qiu</strong><sup>*</sup>, Zequn Jie, Shaoxiang Chen, Jingjing Chen, Lin Ma, and Yu-Gang Jiang"
-venue: "<i>Conference on Computer Vision and Pattern Recognition Workshop (<strong>CVPRW</strong>)</i>"
+venue: "<i>Computer Vision and Pattern Recognition Workshop (<strong>CVPRW</strong>)</i>"
 pdf: https://arxiv.org/pdf/2504.04423
 code: https://github.com/SxJyJay/UniToken
 cite: /bib/unitoken_cvprw2025.txt

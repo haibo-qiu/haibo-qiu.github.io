@@ -1,0 +1,6 @@
+@article{qiu2025metis,
+  title={Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning},
+  author={Qiu, Haibo and Lan, Xiaohan and Liu, Fanfan and Sun, Xiaohu and Ruan, Delian and Shi, Peng and Ma, Lin},
+  journal={arXiv preprint arXiv:2506.13056},
+  year={2025}
+}

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<font size=\"4\" color=\"#f55e51\">Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy</font>"
+date:   2025-05-31 8:33:30 +00:00
+image: /imgs/arsample.png
+categories: research
+author: "Haibo Qiu"
+authors: "Xiaoxiao Ma, Feng Zhao, Pengyang Ling, <strong>Haibo Qiu</strong><sup>&dagger;</sup>, Zhixiang Wei, Hu Yu, Jie Huang, Zhixiong Zeng and Lin Ma"
+venue: "<i>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</i>"
+pdf: https://arxiv.org/pdf/2510.09012
+code: https://github.com/krennic999/ARsample
+cite: /bib/arsample_nips2025.txt
+alias: arsample_nips2025
+---

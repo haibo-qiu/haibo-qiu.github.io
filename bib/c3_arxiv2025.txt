@@ -1,0 +1,6 @@
+@article{liu2025context,
+  title={Context Cascade Compression: Exploring the Upper Limits of Text Compression},
+  author={Liu, Fanfan and Qiu, Haibo},
+  journal={arXiv preprint arXiv:2511.15244},
+  year={2025}
+}

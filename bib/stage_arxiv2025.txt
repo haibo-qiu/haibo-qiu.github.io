@@ -1,0 +1,9 @@
+@misc{ma2025stage,
+      title={STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation}, 
+      author={Xiaoxiao Ma and Haibo Qiu and Guohui Zhang and Zhixiong Zeng and Siqi Yang and Lin Ma and Feng Zhao},
+      year={2025},
+      eprint={2509.25027},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.25027}, 
+}

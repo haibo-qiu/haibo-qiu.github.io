@@ -1,0 +1,9 @@
+@misc{meituanlongcatteam2025longcatflashomnitechnicalreport,
+      title={LongCat-Flash-Omni Technical Report}, 
+      author={Meituan LongCat Team},
+      year={2025},
+      eprint={2511.00279},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2511.00279}, 
+}

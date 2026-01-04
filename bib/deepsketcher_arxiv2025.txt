@@ -1,0 +1,6 @@
+@article{zhang2025deepsketcher,
+  title={Deepsketcher: Internalizing visual manipulation for multimodal reasoning},
+  author={Zhang, Chi and Qiu, Haibo and Zhang, Qiming and Zeng, Zhixiong and Ma, Lin and Zhang, Jing},
+  journal={arXiv preprint arXiv:2509.25866},
+  year={2025}
+}

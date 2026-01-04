@@ -1,0 +1,9 @@
+@misc{ma2025betterfasterautoregressive,
+      title={Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy}, 
+      author={Xiaoxiao Ma and Feng Zhao and Pengyang Ling and Haibo Qiu and Zhixiang Wei and Hu Yu and Jie Huang and Zhixiong Zeng and Lin Ma},
+      year={2025},
+      eprint={2510.09012},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.09012}, 
+}

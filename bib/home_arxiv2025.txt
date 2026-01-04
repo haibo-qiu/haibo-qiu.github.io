@@ -1,0 +1,6 @@
+@article{lan2025metis,
+  title={Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning},
+  author={Lan, Xiaohan and Liu, Fanfan and Qiu, Haibo and Yang, Siqi and Ruan, Delian and Shi, Peng and Ma, Lin},
+  journal={arXiv preprint arXiv:2510.20519},
+  year={2025}
+}

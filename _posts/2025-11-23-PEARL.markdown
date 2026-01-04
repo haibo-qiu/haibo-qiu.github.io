@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<font size=\"4\" color=\"#f55e51\">Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning</font>"
+date:   2025-11-23 8:33:30 +00:00
+image: /imgs/pearl.png
+categories: research
+author: "Haibo Qiu"
+authors: "Chi Zhang, <strong>Haibo Qiu</strong><sup>&dagger;</sup>, Qiming Zhang, Yufei Xu, Zhixiong Zeng, Siqi Yang, Peng Shi, Lin Ma and Jing Zhang"
+venue: "<i>arXiv preprint arXiv:2511.18437</i>"
+pdf: https://arxiv.org/pdf/2511.18437
+code: https://github.com/MiliLab/PEARL
+cite: /bib/pearl_arxiv2025.txt
+alias: pearl_arxiv2025
+---

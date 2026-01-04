@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="4" color="#f55e51">GFNet:Geometric Flow Network for 3D Point Cloud Semantic Segmentation</font>
+title: "<font size=\"4\" color=\"#f55e51\">GFNet: Geometric Flow Network for 3D Point Cloud Semantic Segmentation</font>"
 date:   2022-07-26 10:33:30 +00:00
 image: /imgs/gfnet.png
 categories: research

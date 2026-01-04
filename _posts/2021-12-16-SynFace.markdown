@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="4" color="#f55e51">SynFace:Face Recognition with Synthetic Data</font>
+title: "<font size=\"4\" color=\"#f55e51\">SynFace: Face Recognition with Synthetic Data</font>"
 date:   2021-12-16 10:33:30 +00:00
 image: /imgs/synface.png
 categories: research

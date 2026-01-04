@@ -7,6 +7,6 @@ image: /imgs/JD_Logo.svg
 categories: experience 
 author: "Haibo Qiu"
 position: Research intern
-supervisor: Advised by <a href="https://scholar.google.com/citations?user=fjzIdMQAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Dr. Baosheng Yu </a>
+supervisor: Advised by <a href="https://scholar.google.com/citations?user=fjzIdMQAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Dr. Baosheng Yu </a> and <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en" target="_blank" rel="noopener noreferer">Prof. Dacheng Tao</a>
 ---
 

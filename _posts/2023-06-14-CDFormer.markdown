@@ -11,5 +11,6 @@ pdf: https://arxiv.org/abs/2306.01257
 code: https://github.com/haibo-qiu/CDFormer
 cite: /bib/cdformer_arxiv2023.txt
 alias: cdformer_arxiv2023
+published: false
 ---
 

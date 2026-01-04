@@ -11,4 +11,5 @@ pdf: https://arxiv.org/abs/2310.07743
 code: https://github.com/haibo-qiu/PointHR
 cite: /bib/pointhr_arxiv2023.txt
 alias: pointhr_arxiv2023
+published: false
 ---

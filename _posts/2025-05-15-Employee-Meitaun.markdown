@@ -7,5 +7,6 @@ image: /imgs/Meituan_Logo.png
 categories: experience 
 author: "Haibo Qiu"
 position: Multimodal Researcher
+supervisor: Led by <a href="https://scholar.google.com/citations?user=4sKGNB0AAAAJ&hl=en" target="_blank" rel="noopener noreferer">Dr. Zequn Jie</a> and <a href="http://forestlinma.com" target="_blank" rel="noopener noreferer">Dr. Lin Ma </a>
 ---
 

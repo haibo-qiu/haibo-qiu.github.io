@@ -10,5 +10,6 @@ venue: "<i>arXiv preprint arXiv:2511.15244</i>"
 pdf: https://arxiv.org/pdf/2511.15244
 code: https://github.com/liufanfanlff/C3-Context-Cascade-Compression
 cite: /bib/c3_arxiv2025.txt
+zhihu: https://www.zhihu.com/question/1977413775251502148
 alias: c3_arxiv2025
 ---

@@ -6,7 +6,7 @@ image: /imgs/deepsketcher.png
 categories: research
 author: "Haibo Qiu"
 authors: "Chi Zhang, <strong>Haibo Qiu</strong><sup>&dagger;</sup>, Qiming Zhang, Zhixiong Zeng, Lin Ma and Jing Zhang"
-venue: "<i>arXiv preprint arXiv:2509.25866</i>"
+venue: "<i>Conference on Computer Vision and Pattern Recognition Findings (<strong>CVPRF</strong>)</i>"
 pdf: https://arxiv.org/pdf/2509.25866
 code: https://github.com/MiliLab/DeepSketcher
 cite: /bib/deepsketcher_arxiv2025.txt

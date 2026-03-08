@@ -6,7 +6,7 @@ image: /imgs/pearl.png
 categories: research
 author: "Haibo Qiu"
 authors: "Chi Zhang, <strong>Haibo Qiu</strong><sup>&dagger;</sup>, Qiming Zhang, Yufei Xu, Zhixiong Zeng, Siqi Yang, Peng Shi, Lin Ma and Jing Zhang"
-venue: "<i>arXiv preprint arXiv:2511.18437</i>"
+venue: "<i>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</i>"
 pdf: https://arxiv.org/pdf/2511.18437
 code: https://github.com/MiliLab/PEARL
 cite: /bib/pearl_arxiv2025.txt

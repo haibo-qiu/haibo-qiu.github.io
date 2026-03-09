@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "<font size=\"4\" color=\"#f55e51\">DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning</font>"
-date:   2025-09-30 8:33:30 +00:00
+date:   2026-02-22 8:33:30 +00:00
 image: /imgs/deepsketcher.png
 categories: research
 author: "Haibo Qiu"
